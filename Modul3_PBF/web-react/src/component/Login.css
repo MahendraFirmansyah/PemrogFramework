@@ -1,0 +1,18 @@
+
+body {
+    font-family: 'Inter';
+    box-shadow: 8px 8px 8px 8px #888888;
+    text-align: center;
+}
+
+input[type=text] {
+    background-color: #ffffff;
+    height: 50px;
+    color: #FFF;
+    border: 5;
+}
+
+input[type=text]:focus {
+    background-color: #3b3f3f;
+    color: #FFF;
+}
